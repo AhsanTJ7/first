@@ -1,0 +1,56 @@
+body {
+  background-color: #D1E8E4;
+  background-image: url(https://images.hdqwalls.com/wallpapers/bthumb/ryuk-death-note-4k-ka.jpg);
+  background-size: 119%;
+}
+
+.dp :hover {
+  background-color: green;
+}
+
+tr {
+  color: white;
+}
+
+
+
+
+.name {
+  color: white;
+  background-image: url(https://images.hdqwalls.com/wallpapers/bthumb/2020-harley-quinn-margot-robbie-4k-n5.jpg);
+  font-size: 75px;
+  background-position: center;
+  background-position: top 1px right 1px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.sec {
+  background-image: url(https://images.hdqwalls.com/wallpapers/bthumb/the-batman-2022-5k-q8.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+h3 {
+  color: darkorange
+}
+
+td hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightgreen;
+  border-width: 20px;
+  width: 30%;
+}
+
+li {
+  color: white;
+}
+
+label {
+  color: white;
+}
+
+p {
+  color: white;
+}
